@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 数据库
+*.db
+*.sqlite
+*.sqlite3
+app/db/
+app/agents/db/
+
+# 环境变量（重要！）
+.env
+
+# 日志
+*.log
+
+# 前端构建产物
+私厨-前端源码/.next/
+私厨-前端源码/node_modules/
+marry-ai/.next/
+marry-ai/node_modules/
+marry-ai/.turbo/
+
+# Jupyter
+.ipynb_checkpoints/
+jupyter/notebooks/.ipynb_checkpoints/
+
+# 临时文件
+*.tmp
+.DS_Store
