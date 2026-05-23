@@ -32,7 +32,7 @@
 
 ```bash
 # 克隆项目
-git clone <your-repo-url>
+git clone git@github.com:SSK988I/AI-Personal-Chef.git
 cd 私厨
 
 # 安装 uv (如果还没安装)
